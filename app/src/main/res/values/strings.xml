@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenCV_Detection</string>
+    <string name="colorPickerBtn">Pick a color</string>
+</resources>
